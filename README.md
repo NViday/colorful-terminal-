@@ -1,4 +1,4 @@
-# colorful-terminal-
+# colorful-terminal- how to make the terminal shell more colorful
 # to activate ASI coloring for terminal shell
 
 # check this link for more details:
